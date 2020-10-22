@@ -1,0 +1,16 @@
+body {
+    background:#f1f1f1;
+}
+header{
+    height: 90vh;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 100px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
